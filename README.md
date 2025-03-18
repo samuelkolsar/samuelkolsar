@@ -1,6 +1,7 @@
 ## Hi, I'm Samuel 👋🏼👨🏻‍💻
 
 💡 I'm a computer science student at the University of Tartu
+
 🚀 An aspiring software engineer
 
 
